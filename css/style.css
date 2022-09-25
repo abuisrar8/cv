@@ -1,0 +1,19 @@
+html{
+    scrollbar-color: #EB1D36;
+}
+body {
+    background-color:#ffffff;
+}
+
+h1,h3{
+    color: #0a0030;
+    
+}
+h4,p{
+    color: #333538;
+}
+img{
+    width: auto;
+    max-height:70vh;
+    min-height:auto;
+}
